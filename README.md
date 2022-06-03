@@ -1,7 +1,8 @@
 # Data_anomalies
-Решение кейса для хакатона
+Our Hackaton repository
 
 
+For start the demo, use:
 
-
-что бы запустить необходмо сделать 
+pip install -r requirements.txt
+python3 main.py
